@@ -1,4 +1,4 @@
-# Ex.No: 8  Implementation of Path finding using A* algorithm
+# Ex.No: 8  Implementation of Path finding using Algorithm
 ### DATE: 07-08-2026                                                                        
 ### REGISTER NUMBER : 212223230197
 ### AIM: 
